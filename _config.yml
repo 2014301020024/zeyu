@@ -42,7 +42,7 @@ baseurl: '/zeyu'
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
+    account: '1434061846@qq.com'
     cookieconsent: true
     anonymizeip: true
 
@@ -52,7 +52,7 @@ ga:
 # Leave empty (just "plausible:" with subitems commented out) to disable.
 #plausible:
 plausible:
-    domain: 'tsjensen.github.io'
+    domain: '2014301020024.github.io'
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
