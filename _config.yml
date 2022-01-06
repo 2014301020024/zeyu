@@ -23,7 +23,7 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: 前山极远碧云合，清夜一声白雪微。
+    description: .
     keywords: foo, bar, baz
     crawl: index,follow
 
@@ -59,7 +59,7 @@ plausible:
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
 #avatar: "https://avatars0.githubusercontent.com/u/8897534"
-avatar: "images/avatar.svg"
+avatar: "images/avatar.jepg"
 #avatar:
 
 
