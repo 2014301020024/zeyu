@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Ze Yu
 #subtitle:
-subtitle: Frontend Developer
+subtitle: An ordinary PhD student in physics
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -23,7 +23,7 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
+    description: 前山极远碧云合，清夜一声白雪微。
     keywords: foo, bar, baz
     crawl: index,follow
 
@@ -134,7 +134,7 @@ links:
   - github:
       name: GitHub
       show: true
-      href: https://github.com/tsjensen
+      href: https://github.com/2014301020024
       icon: fab fa-github
   - codepen:
       name: CodePen
