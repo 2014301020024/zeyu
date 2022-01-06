@@ -164,7 +164,7 @@ links:
   - blog:
       name: Blog
       show: true
-      href: http://https://2014301020024.github.io/blog/
+      href: https://2014301020024.github.io/blog/
       icon: fas fa-book-open
   - email:
       name: Email
